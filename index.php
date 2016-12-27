@@ -1,5 +1,5 @@
 <?php
 
 echo "<h1>LogistiCare is Awesome.";
-echo "<br>Version 1.1";
+echo "<br>Version 1.2";
 
